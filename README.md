@@ -47,5 +47,7 @@ SkillCourt v10.0
     > https://www.python.org/downloads/
 * Install Python Modules
     > Open Terminal an enter the following commands:
+    
     > pip install six
+    
     > pip install zeroconf
