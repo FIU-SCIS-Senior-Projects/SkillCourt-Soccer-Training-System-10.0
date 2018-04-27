@@ -52,4 +52,5 @@ SkillCourt v10.0
 * Install Python Modules
     
     pip install six
+    
     pip install zeroconf
