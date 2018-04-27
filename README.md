@@ -46,7 +46,7 @@ SkillCourt v10.0
 * Install Python 3
     > https://www.python.org/downloads/
 * Install Python Modules
-    > Open Terminal an enter the following commands:
+    > Open Terminal and enter the following commands:
     
     > pip install six
     
