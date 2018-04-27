@@ -35,3 +35,16 @@ SkillCourt v10.0
     ├── UserStoryVideos                                        # Individual Video files
     ├── Video                                                  # Links to YouTube Videos
     └── README.md
+
+### Installation Guide
+* Install Java Development Kit (JDK) 8
+    http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* Install Android Studio
+    https://developer.android.com/studio/
+* Install Microsoft Visual C++ Build Tools
+    https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+* Install Python 3
+    https://www.python.org/downloads/
+* Install Python Modules
+    pip install six
+    pip install zeroconf
