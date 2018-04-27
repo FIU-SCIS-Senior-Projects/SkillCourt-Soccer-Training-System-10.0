@@ -38,19 +38,14 @@ SkillCourt v10.0
 
 ### Installation Guide
 * Install Java Development Kit (JDK) 8
-    
-    http://www.oracle.com/technetwork/java/javase/downloads/index.html
+    > http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * Install Android Studio
-    
-    https://developer.android.com/studio/
+    > https://developer.android.com/studio/
 * Install Microsoft Visual C++ Build Tools
-    
-    https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+    > https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
 * Install Python 3
-    
-    https://www.python.org/downloads/
+    > https://www.python.org/downloads/
 * Install Python Modules
-    
-    pip install six
-    
-    pip install zeroconf
+    > Open Terminal an enter the following commands:
+    > pip install six
+    > pip install zeroconf
